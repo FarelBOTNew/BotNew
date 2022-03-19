@@ -1,0 +1,20 @@
+{
+	    WAConnection: _WAConnection,
+		MessageType,
+		Presence,
+		MessageOptions,
+		Mimetype,
+		WALocationMessage,
+		WAMessageProto,
+		ReconnectMode,
+		ProxyAgent,
+		ChatModification,
+		GroupSettingChange,
+		WA_MESSAGE_STUB_TYPES,
+		WA_DEAFULT_EPHEMERAL,
+		waChatKey,
+		mentionedJid,
+		processTime,
+		prepareMessageFromContent, 
+		relayWAMessage
+	}
